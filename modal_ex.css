@@ -1,0 +1,53 @@
+body{
+  padding: 0;
+  margin: 0;
+  margin: 0px auto;
+
+}
+
+
+.mod
+{
+	display: none;
+}
+
+
+.btn
+{
+	height: 6vh;
+	background-color: #33CEFF;
+	color: white;
+	font-size: 16px;
+
+
+}
+
+span
+{
+	font-size: 30px;
+}
+.head
+{
+
+   
+	
+	height: 300px;
+	width: 500px;
+	
+	border-color: white;
+	
+	border-style: groove;
+
+}
+
+.subdiv
+{
+	height: 100px;
+	background-color: white;
+	border-bottom: 1px solid;
+}
+ .btn1
+ {
+ 	padding-left: 300px;
+ 	padding-top: 25px;
+ }
